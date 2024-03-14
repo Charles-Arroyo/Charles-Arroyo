@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I'm Charles!
 # 💫 About Me:
 💻 SWE student @ Iowa State University <br>👨🏼‍💻 Looking for new challenges and opportunities for growth.
 
