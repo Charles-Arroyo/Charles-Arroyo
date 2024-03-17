@@ -1,7 +1,7 @@
-### Hi there 👋 I'm Charles!
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi+There!+%F0%9F%91%8B;I'm+Charles!)](https://git.io/typing-svg)
+
 # 💫 About Me:
-💻 SWE student @ Iowa State University <br>👨🏼‍💻 Looking for new challenges and opportunities for growth.
-📈 Please take a look at my projects as well!
+💻 SWE student @ Iowa State University <br>👨🏼‍💻 Looking for new challenges and opportunities for growth. <br>📈 Please take a look at my projects as well!
 
 
 ## 🌐 Socials:
