@@ -15,7 +15,7 @@
 # 📊 GitHub Stats:
 <!--[](https://github-readme-stats.vercel.app/api?username=charles-arroyo&theme=gotham&hide_border=true&include_all_commits=false&count_private=false)<br/> -->
 [![GitHub Streak](https://streak-stats.demolab.com?user=Charles-Arroyo&theme=dracula)](https://git.io/streak-stats)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=charles-arroyo&theme=gotham&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+<br> ![](https://github-readme-stats.vercel.app/api/top-langs/?username=charles-arroyo&theme=gotham&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=charles-arroyo&theme=apprentice&no-frame=true&no-bg=true&margin-w=4)
