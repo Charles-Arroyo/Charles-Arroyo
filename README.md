@@ -1,8 +1,3 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=30&pause=1000&color=8436F7&background=FFFFFF00&center=false&random=false&width=300&lines=Hi+There!+%F0%9F%91%8B;I'm+Charles!)](https://git.io/typing-svg)
-
-
-
-
 # 💫 About Me:
 💻 SWE student @ Iowa State University <br>👨🏼‍💻 Looking for new challenges and opportunities for growth. <br>📈 Please take a look at my projects as well!
 
